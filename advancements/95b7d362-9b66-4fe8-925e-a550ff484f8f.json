@@ -1,0 +1,19 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2019-10-10 00:38:44 +0900",
+      "minecraft:forest": "2019-10-10 00:28:55 +0900",
+      "minecraft:mountains": "2019-10-10 00:42:18 +0900",
+      "minecraft:snowy_tundra": "2019-10-10 00:36:09 +0900",
+      "minecraft:beach": "2019-10-10 01:01:01 +0900",
+      "minecraft:river": "2019-10-10 01:00:33 +0900",
+      "minecraft:lukewarm_ocean": "2019-10-10 01:01:02 +0900",
+      "minecraft:wooded_mountains": "2019-10-10 01:00:03 +0900",
+      "minecraft:wooded_hills": "2019-10-10 00:37:48 +0900",
+      "minecraft:stone_shore": "2019-10-10 01:01:08 +0900",
+      "minecraft:plains": "2019-10-10 00:36:07 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
